@@ -18,9 +18,6 @@ And PostgreSQL DB.
 
 Check this url: https://luxury-coupons-spring.herokuapp.com/swagger-ui.html
 
-For cheking the program - Download to zip, export the zip and follow the instructions:\
-click File -> Open -> choose pom.xml in the project folder -> OK.
-
 ## Remarks 📝
 I've build this project with 2 programmers as part of the final project in our course - Java Full Stack.\
 Hope you will enjoyed and liked the project like i did 😄
