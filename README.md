@@ -14,7 +14,7 @@ Each client is able to login to the system and execute specific operations.
 I've used IntelliJ IDEA for the development environment,\
 https://www.jetbrains.com/idea/download/#section=windows
 
-and PostgreSQL DB.
+And PostgreSQL DB.
 
 Check this url: https://luxury-coupons-spring.herokuapp.com/swagger-ui.html
 
